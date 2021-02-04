@@ -12,7 +12,7 @@ Click /help for more details....</b>"""
     DOWNLOAD_START = "Give Me Some Time..."
     UPLOAD_START = "Starting to upload..."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "Thank you for Using Meh!! ❤️"
-    SAVED_THUMB = "✅Custom thumbnail Saved.
+    SAVED_THUMB = "✅Custom thumbnail Saved."
 This thumbnail will be Permanent for all future uploads
 
  Do /delthumb to clear your thumbnail!"
